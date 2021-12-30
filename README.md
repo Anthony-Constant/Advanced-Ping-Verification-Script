@@ -10,7 +10,7 @@ Once the script has been executed, it will automatically create a ping_logs.txt 
 
 <h2> HOW TO USE IT </h2>
 Run the script. <br>
-<br> Let the script do it's work. <br>
+<br> Allow the script do its job. <br>
 
 
 
